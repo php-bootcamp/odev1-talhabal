@@ -1,5 +1,5 @@
 <?php 
-$age = 35;
+$age = 25;
 if ($age>=0 && $age<15) {
 	echo "Çocuk";
 }
